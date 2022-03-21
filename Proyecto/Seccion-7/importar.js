@@ -7,3 +7,6 @@ var messi = new exportar_1.Jugador();
 messi.nombre = "Messi";
 var zeus = { nombre: "Zeus" };
 console.log(messi, zeus);
+//Videos ALIAS
+var exportar_2 = require("./exportar");
+(0, exportar_2.palabras)();

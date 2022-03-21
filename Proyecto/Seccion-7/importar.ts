@@ -16,5 +16,6 @@ console.log (messi, zeus)
 
 //Videos ALIAS
 
+import {palabras} from "./exportar"
 
-function
+palabras()

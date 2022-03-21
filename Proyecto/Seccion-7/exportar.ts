@@ -14,3 +14,10 @@ export class Jugador{
 export interface Mascota{
     nombre:string
 }
+
+function trabaluenguas_super_dificil():void{
+    console.log (`ddfefcdc wfefed eefe efefaef aaefe fe adfad
+                   dffadf 344676rgde5`)
+}
+
+export {trabaluenguas_super_dificil as palabras}
